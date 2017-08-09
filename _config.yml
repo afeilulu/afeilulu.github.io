@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Afeilulu"
-  avatar           : "https://lh3.googleusercontent.com/-3lU86VfExH8/AAAAAAAAAAI/AAAAAAAAAAA/AMp5VUqd8DnYIBG2lL50nU1rLSpknp2-3w/s64-c-mo-md/photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://lh3.googleusercontent.com/-3lU86VfExH8/AAAAAAAAAAI/AAAAAAAAB44/5Cf8_t9QGrQ/s120-p-rw-no/photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Xi'an China"
   email            : "afeilulu@gmail.com"
